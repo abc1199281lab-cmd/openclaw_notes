@@ -18,7 +18,7 @@ Analyze and document the OpenClaw architecture, focusing on its agentic capabili
 8. **Plugin SDK**: How external extensions interact with the core.
 
 ## Documentation Phases
-- [ ] Phase 1: Repository Structure & High-level Architecture.
+- [x] Phase 1: Repository Structure & High-level Architecture.
 - [ ] Phase 2: Core Flow Analysis (Message -> Gateway -> Agent -> Reply).
 - [ ] Phase 3: Module Deep Dives (one by one).
 - [ ] Phase 4: Practical Examples & Extension Development.
