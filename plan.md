@@ -19,6 +19,6 @@ Analyze and document the OpenClaw architecture, focusing on its agentic capabili
 
 ## Documentation Phases
 - [x] Phase 1: Repository Structure & High-level Architecture.
-- [ ] Phase 2: Core Flow Analysis (Message -> Gateway -> Agent -> Reply).
+- [x] Phase 2: Core Flow Analysis (Message -> Gateway -> Agent -> Reply).
 - [ ] Phase 3: Module Deep Dives (one by one).
 - [ ] Phase 4: Practical Examples & Extension Development.
